@@ -140,7 +140,7 @@ DEPENDENCY_DOWNLOAD_CONFIG = {
 
 | 马来西亚 DuitNow QR | Buy Me a Coffee |
 | :---: | :---: |
-| <img src="docs/images/YOUR_DUITNOW_QR.png" alt="DuitNow QR" width="220" /> | <br /><br /><a href="https://www.buymeacoffee.com/YOUR_NAME" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="48" /></a><br /><br /> |
+| <img src="docs/images/duitnow.png" alt="DuitNow QR" width="220" /> | <br /><br /><a href="https://www.buymeacoffee.com/YOUR_NAME" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="48" /></a><br /><br /> |
 | *支持各本地银行与各大 TNG / Boost / ShopeePay 钱包扫描* | *扫描或点击上方按钮通过国外信用卡支持* |
 
 <br />
